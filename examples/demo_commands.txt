@@ -1,0 +1,6 @@
+AND harry potter
+OR nike shoes
+ADD alice 1
+VIEWCART alice
+BUYCART alice
+QUIT outdb.txt
