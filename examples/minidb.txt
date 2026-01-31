@@ -1,0 +1,11 @@
+<products>
+book
+Test Book
+10.00
+5
+978-000000000-0
+Test Author
+</products>
+<users>
+alice 100.00 1
+</users>
