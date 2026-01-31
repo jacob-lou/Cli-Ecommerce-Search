@@ -12,4 +12,4 @@ jobs:
       - name: Build
         run: make
       - name: Run demo
-        run: bash amazon examples/minidb.txt < examples/demo_commands.txt
+        run: ./amazon examples/minidb.txt < examples/demo_commands.txt
