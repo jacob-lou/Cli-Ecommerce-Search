@@ -46,4 +46,8 @@ VIEWCART alice
 BUYCART alice
 QUIT outdb.txt
 ```
-
+## Quick Demo
+```bash
+make
+./amazon examples/minidb.txt < examples/demo_commands.txt
+```
